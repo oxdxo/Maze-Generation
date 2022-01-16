@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{B5F9C4BB-F743-D49D-D83C-3B6DD44BAF74}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CreateMazeLevel.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CreateMazeLevel.cs" Line="24" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Maze-Generation" expanded="True">
+            <Node name="Assets" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e6e78131-1ce1-4d3d-b54b-00a3e37e9740" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -18,6 +18,10 @@ namespace ZhaoXiaodan.Lab2
             var occupancyGraph = mazeAdaptor.build();
             gridFactory.createPrefab(occupancyGraph);
         }
+        void Start()
+        {
+            Build();
+        }
     }
 
 #if UNITY_EDITOR
